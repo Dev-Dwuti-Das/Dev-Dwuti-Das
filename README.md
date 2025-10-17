@@ -1,5 +1,6 @@
 
 <img src ="https://github.com/user-attachments/assets/980e9a02-c250-4255-9edc-0f3f2c0a3bea">
+<img src ="https://github.com/user-attachments/assets/76d15971-71d6-4aa3-b880-d99b11273102">
 
 
 # 💻 Tech Stack:
