@@ -4,6 +4,13 @@
 ```json
 {
   "name": "Dev Dwuti",
+  "role": "Full-Stack Developer | cloud Enthusiast | Problem Solver",
+  "based_in": "🌏 India",
+  "about": {
+      "description": "I love building creative tech solutions. Passionate about clean and seamless UI/UX.",
+      "currently_learning": ["DSA", "Backend", "Docker"],
+      "interests": ["Web Development", "AI Integration", "Cloud"]
+    },
 }
 ```
 
