@@ -7,7 +7,7 @@
   "role": "Full-Stack Developer | cloud Enthusiast",
   "based_in": "🌏 India",
   "about": {
-      "description": "I love building creative tech solutions. Passionate about clean and seamless UI/UX.",
+      "description": "I love building creative tech solutions. A developer who can design",
       "currently_learning": ["DSA", "Backend", "Docker"],
       "interests": ["Web Development", "AI Integration", "Cloud"]
     },
