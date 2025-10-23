@@ -3,13 +3,13 @@
 
 ```json
 {
-  "name": "Dev Dwuti",
-  "role": "Full-Stack Developer | cloud Enthusiast",
+  "name": "Dev Dwuti Das",
+  "learning": "Full-Stack Development, Devops",
   "based_in": "🌏 India",
   "about": {
-      "description": "I love building creative tech solutions. A developer who can design",
+      "description": "I love building creative and clean tech solutions. A developer who can design",
       "currently_learning": ["DSA", "Backend", "Docker"],
-      "interests": ["Web Development", "AI Integration", "Cloud"]
+      "interests": ["Web Development", "GenAI", "devops"]
     },
 }
 ```
