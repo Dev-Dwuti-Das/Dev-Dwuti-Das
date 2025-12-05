@@ -4,12 +4,12 @@
 ```json
 {
   "name": "Dev Dwuti Das",
-  "learning": "Full-Stack Development, Devops",
+  "learning": "Full-Stack Development, Devops, cloud",
   "based_in": "🌏 India",
   "about": {
       "description": "I love building creative and clean tech solutions. A developer who can design",
       "currently_learning": ["DSA", "Backend", "Docker"],
-      "interests": ["Web Development", "GenAI", "devops"]
+      "interests": ["Web Development", "cloud", "devops"]
     },
 }
 ```
