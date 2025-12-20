@@ -10,7 +10,7 @@
       "description": "I love building creative and clean tech solutions. A developer who can design",
       "currently_learning": ["DSA", "Backend", "Docker"],
       "interests": ["Web Development", "cloud", "devops"],
-      "working_on: "Revleet"
+      "working_on": "Revleet"
     },
 }
 ```
