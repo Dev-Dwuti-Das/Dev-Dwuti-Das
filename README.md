@@ -8,7 +8,7 @@
   "based_in": "🌏 India",
   "about": {
       "description": "I love building creative and clean tech solutions. A developer who can design",
-      "currently_learning": ["DSA", "Backend", "Docker"],
+      "currently_learning": ["DSA", "Backend"],
       "interests": ["Web Development", "AWS"],
       "working_on": "Revleet"
     },
